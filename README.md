@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @prabhleen003
+- 👋 Hi, I’m Prabhleen
+- sophomore at Tiet 
+- here to "Contibute , Learn and Grow "
   
 
 <!---
