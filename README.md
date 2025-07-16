@@ -6,6 +6,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Aspiring+Data+Scientist;Passionate+about+DSA;Let%E2%80%99s+Build+Together!" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=prabhleen003.prabhleen003&left_color=F7971E&right_color=7F7FD5&left_text=Profile Views" />
+</p>
+
 
 <!-- About Me -->
 <h2 align="center">💫 About Me</h2>
@@ -37,6 +41,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=prabhleen003&show_icons=true&theme=radical&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhleen003&theme=radical&hide_border=true" width="48%" />
 </p>
+
 
 <!-- Connect with Me -->
 <h2 align="center">🌐 Connect with Me</h2>
