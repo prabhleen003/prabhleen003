@@ -4,10 +4,11 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Aspiring+Data+Scientist;Passionate+about+DSA;Let%E2%80%99s+Build+Together!" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=prabhleen003&label=Profile+Views&color=F7971E&style=flat" alt="Profile Views"/>
 </p>
+
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=prabhleen003.prabhleen003&left_color=F7971E&right_color=7F7FD5&left_text=Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Aspiring+Data+Scientist;Passionate+about+DSA;Let%E2%80%99s+Build+Together!" alt="Typing SVG" />
 </p>
 
 
