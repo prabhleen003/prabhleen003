@@ -10,6 +10,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Aspiring+Data+Scientist;Passionate+about+DSA;Let%E2%80%99s+Build+Together!" alt="Typing SVG" />
 </p>
+<!-- Contribution Snake -->
+<p align="center">
+  <img src="https://github.com/prabhleen003/prabhleen003/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation"/>
+</p>
 
 
 <!-- About Me -->
